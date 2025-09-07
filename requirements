@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+DecisionTreeClassifier
+criterion=gini or entropy or max_log
+max_depth
